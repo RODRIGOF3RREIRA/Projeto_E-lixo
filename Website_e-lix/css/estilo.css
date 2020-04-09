@@ -1,0 +1,53 @@
+.header-site{
+    background: url(   '../img/lixo1.jpg' ) no-repeat left top;
+    background-position:center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: cyan;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    
+
+}
+
+.content-site-header{
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+
+.mid-site{
+    background: url(   '../img/ambi1.jpg' ) no-repeat left top;
+    background-position:center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(32, 220, 253);
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding-top: 300px;
+    padding-bottom: 300px;
+
+}
+.content-site-mid{
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.low-site{
+    background: url(   '../img/just1.jpg' ) no-repeat left top;
+    background-position:center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(32, 220, 253);
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding-top: 300px;
+    padding-bottom: 300px;
+
+}
+.content-site-low{
+    padding-top: 300px;
+    padding-bottom: 300px;
+}

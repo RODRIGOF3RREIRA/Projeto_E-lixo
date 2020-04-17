@@ -4,8 +4,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    color: cyan;
-    text-shadow: black 0.1em 0.1em 0.2em;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 0.4em 0.4em 0.8em;
     padding-top: 300px;
     padding-bottom: 300px;
     
@@ -24,15 +24,15 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    color: rgb(32, 220, 253);
-    text-shadow: black 0.1em 0.1em 0.2em;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 0.2em 0.2em 0.4em;
     padding-top: 300px;
     padding-bottom: 300px;
 
 }
 .content-site-mid{
-    padding-top: 300px;
-    padding-bottom: 300px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .low-site{
@@ -41,20 +41,25 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    color: rgb(32, 220, 253);
-    text-shadow: black 0.1em 0.1em 0.2em;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 0.2em 0.2em 0.4em;
     padding-top: 300px;
     padding-bottom: 300px;
 
 }
 .content-site-low{
-    padding-top: 300px;
-    padding-bottom: 300px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .tamanho{
     width: 200px;
     height: 200px;
+    }
+
+.tamanho2{
+    width: 300px;
+    height: 3s00px;
     }
 
 .mglf{
